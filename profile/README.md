@@ -2,6 +2,8 @@
 
 Building open tools for provenance-aware scientific computing, reusable research assets, and reproducible analysis workflows.
 
+Find examples and documentation here: https://bioledger-project.github.io/bioledger
+
 ## Vision
 
 Scientific computing should be portable, reproducible, and independent of any particular platform.
